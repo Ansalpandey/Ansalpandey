@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ansal_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansal_pandey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/19319833/ansal-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/19319833/ansal-pandey" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19319833/ansal-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/19319833/ansal-pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/ansal_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansal_pandey" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pandeyansal77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pandeyansal77" height="30" width="40" /></a>
 </p>
