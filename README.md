@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
-<h3 align="center">Student | Android Developer | Tech Enthusiast | Game Programmer | Open-Source Contributor.</h3>
+<h3 align="center">Student | Learning Android Development | Tech Enthusiast | Open-Source Contributor. | Member at Google Developer Group New Delhi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansalpandey110043&label=Profile%20views&color=0e75b6&style=flat" alt="ansalpandey110043" /> </p>
 
