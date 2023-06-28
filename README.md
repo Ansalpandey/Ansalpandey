@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">Student | Chief Creative Officer at ShowwcaseHQ | Exploring Web Development | Aspiring Game Developer | Tech Enthusiast | Open-Source Contributor. | Member at Google Developer Group New Delhi.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansalpandey110043&label=Profile%20views&color=0e75b6&style=flat" alt="ansalpandey110043" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansalpandey&label=Profile%20views&color=0e75b6&style=flat" alt="ansalpandey110043" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansalpandey110043" alt="ansalpandey110043" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansalpandey" alt="ansalpandey110043" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ansal_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/ansal_pandey?logo=twitter&style=for-the-badge" alt="ansal_pandey" /></a> </p>
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ansalpandey110043](https://github.com/Ansalpandey110043)
+- 👨‍💻 All of my projects are available at [https://github.com/Ansalpandey110043](https://github.com/Ansalpandey)
 
 - 📝 I regularly write articles on [https://www.showwcase.com](https://www.showwcase.com)
 
