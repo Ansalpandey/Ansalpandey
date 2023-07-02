@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ansalpandey110043](https://github.com/Ansalpandey)
+- 👨‍💻 All of my projects are available at [https://github.com/Ansalpandey](https://github.com/Ansalpandey)
 
 - 📝 I regularly write articles on [https://www.showwcase.com](https://www.showwcase.com)
 
