@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
-<h3 align="center">Student | Chief Creative Officer at ShowwcaseHQ | Exploring Web Development | Aspiring Game Developer | Tech Enthusiast | Open-Source Contributor. | Member at Google Developer Group New Delhi.</h3>
+<h3 align="center">Student | Chief Creative Officer at <a href="https://www.showwcase.com/">Showwcase</a> | Android Developer | Aspiring Game Developer | Tech Enthusiast | Open-Source Contributor. | Member at Google Developer Group New Delhi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansalpandey&label=Profile%20views&color=0e75b6&style=flat" alt="ansalpandey110043" /> </p>
 
