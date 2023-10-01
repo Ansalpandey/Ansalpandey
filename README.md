@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
-<h3 align="center">Student | Chief Creative Officer at <a href="www.showwcase.com"> Showwcase</a> | <a href="www.postman.com">Postman API Platform Student Expert</a> | Android Developer | Aspiring Game Developer | Tech Enthusiast | Open-Source Contributor. | Member at Google Developer Group New Delhi.</h3>
+<h3 align="center">Student | Chief Creative Officer at <a href="www.showwcase.com"> Showwcase </a> | <a href="www.postman.com">Postman API Platform Student Expert</a> | Android Developer | Aspiring Game Developer | Tech Enthusiast | Open-Source Contributor. | Member at Google Developer Group New Delhi.</h3>
 
 <p align="left"> <a href="https://twitter.com/ansal_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/ansal_pandey?logo=twitter&style=for-the-badge" alt="ansal_pandey" /></a> </p>
 
