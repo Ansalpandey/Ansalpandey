@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Android Studio, Java, C++, Git, Version Control System**
+- 💬 Ask me about **Android Studio, Java, Kotlin, C++, Git, Version Control System**
 
 - 📫 How to reach me **pandeyansal77@gmail.com**
 
