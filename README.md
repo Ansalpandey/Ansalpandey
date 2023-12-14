@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ansal_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/ansal_pandey?logo=twitter&style=for-the-badge" alt="ansal_pandey" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working in **Android Development**
 
 - 💬 Ask me about **Android Studio, Java, Kotlin, C++, Git, Version Control System**
 
