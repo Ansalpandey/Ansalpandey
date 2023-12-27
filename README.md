@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student • Postman Student Expert • Android Developer • Jetpack Compose • Material3 • Kotlin • Java • Open-Source Contributor.
 -----------------------------------------------------------------------------------------------------------------------------
 
-I am a CSE student, As a Computer Science Engineering student, I am deeply passionate about the world of Android apps and game development. My goal is to innovate in these fields by applying my technical skills and creativity to craft engaging and cutting-edge software. With experience in programming languages such as Java, Kotlin and C++, I am constantly seeking to learn new skills and stay up-to-date with the latest developments in the tech industry. I am a dedicated team player who thrives in collaborative environments, and I am eager to contribute to projects that make a real impact.
+I am a CSE student, As a Computer Science Engineering student, I am deeply passionate about Android apps and game development. My goal is to innovate in these fields by applying my technical skills and creativity to craft engaging and cutting-edge software. With experience in programming languages such as Java, Kotlin and C++, I constantly seek to learn new skills and stay up-to-date with the latest developments in the tech industry. I am a dedicated team player who thrives in collaborative environments and is eager to contribute to projects that make a real impact.
 
 * 🌍  I'm based in New Delhi
 * 🖥️  See my portfolio at [Github Pages](http://ansalpandey.github.io/)
 * ✉️  You can contact me at [pandeyansal77@gmail.com](mailto:pandeyansal77@gmail.com)
 * 🚀  I'm currently working on [EducationApp](http://github.com/Ansalpandey/EducationApp)
 * 🧠  I'm learning Android Development and Backend Development.
-* 🤝  I'm open to collaborating on Android development related projects.
+* 🤝  I'm open to collaborating on Android development-related projects.
 
 <a href="https://www.github.com/Ansalpandey" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ansalpandey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ansal_pandey" target="_blank" rel="noreferrer"><img
