@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansalpandey&theme=onedark" alt="Ansalpandey" /></a> </p>
 
-- 🔭 I’m currently working on [SocioLink](https://github.com/Ansalpandey/SocioLink)
+- 🔭 I’m currently working on Backend Development.
 - 🌱 I’m currently learning **Jetpack Compose, KMM, KMP and Backend Development**
 - 💬 Ask me about **Android development and Jetpack Compose**
 - 📫 How to reach me **pandeyansal77@gmail.com**
