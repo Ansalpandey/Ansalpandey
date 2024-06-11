@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/Ansalpandey/Ansalpandey/assets/74102404/da854d1e-0f84-44aa-9ab4-1802df2b4b80
+" width="100%" />
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">Modern Android Developer • Jetpack Compose • Learning Backend development • Postman Student Expert • Kotlin • Java • MVVM • XML • CMP</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ansalpandey&label=Profile%20views&color=0e75b6&style=flat" alt="Ansalpandey" /> </p>
