@@ -1,4 +1,4 @@
-<img src="https://github.com/Ansalpandey/Ansalpandey/assets/74102404/da854d1e-0f84-44aa-9ab4-1802df2b4b80
+<img src="![Fueler Twitter header - 2](https://github.com/Ansalpandey/Ansalpandey/assets/74102404/35967a80-9059-41de-82c9-f679dd35d487)
 " width="100%" />
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">Modern Android Developer • Jetpack Compose • Learning Backend development • Postman Student Expert • Kotlin • Java • MVVM • XML • CMP</h3>
