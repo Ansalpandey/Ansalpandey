@@ -1,4 +1,4 @@
-<img src="https://github.com/Ansalpandey/Ansalpandey/assets/74102404/35967a80-9059-41de-82c9-f679dd35d487" width="100%" />
+<img src=https://github.com/user-attachments/assets/6cc8a0b7-fcab-4f55-bf93-edf669f3b97d width="100%" />
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">Android Engineer • Backend Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ansalpandey&label=Profile%20views&color=0e75b6&style=flat" alt="Ansalpandey" /> </p>
