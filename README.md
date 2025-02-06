@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansalpandey&theme=onedark" alt="Ansalpandey" /></a> </p>
 
 - 🔭 I’m currently working on Backend Development.
-- 🌱 I’m currently learning **KMM, System Design**
+- 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **Android development, Jetpack Compose and Backend Development**
 - 📫 How to reach me **pandeyansal77@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Ansalpandey?tab=repositories**
