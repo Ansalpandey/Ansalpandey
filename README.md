@@ -53,12 +53,18 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<h3 align="center">📊 Statistics</h3>
+
 <div align="center">
-<a href="https://github.com/Ansalpandey">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansalpandey&theme=aura_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansalpandey&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansalpandey&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansalpandey&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansalpandey&theme=2077" height="180em" />
+  <a href="https://github.com/Ansalpandey">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansalpandey&theme=aura_dark" height="180em" style="margin: 10px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansalpandey&theme=2077" height="180em" style="margin: 10px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansalpandey&theme=2077" height="180em" style="margin: 10px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansalpandey&theme=2077" height="180em" style="margin: 10px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansalpandey&theme=2077" height="180em" style="margin: 10px;" />
+  </a>
+</div>
+
 </div>
