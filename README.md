@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/717532f4-70e7-442e-a16f-9e6212ae0056)
+<img width="1584" height="396" alt="LinkedIn cover - 18" src="https://github.com/user-attachments/assets/3ca5be2e-33a1-4918-99e2-b5111108b76d" />
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">Full Stack Engineer • Java • Kotlin • Spring Boot • Docker • Kubernetes • Freelancer • JavaScript • TypeScript • React</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ansalpandey&label=Profile%20views&color=0e75b6&style=flat" alt="Ansalpandey" /> </p>
+
 
 - 🔭 I’m currently working on Backend Development.
 - 🌱 I’m currently learning **DevOps**
